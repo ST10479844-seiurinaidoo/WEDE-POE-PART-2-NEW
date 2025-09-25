@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Green Pulse Solar Solutions Website** is a responsive web application built with **HTML5** and **CSS3** in **Visual Studio Code (VS Code)**.  
+The **Green Pulse Solar Solutions Website** is a responsive web application built with **HTML** and **CSS** in **Visual Studio Code (VS Code)**.  
 It gives visitors an interactive platform to discover the company’s solar panels, learn about the benefits of renewable energy, and connect with the team.
 
 
@@ -17,8 +17,8 @@ Maintain a **cohesive brand identity** through a clean, eco-focused design, typo
 
 
 ## Technologies Used
-**HTML5** – Structure and content.  
-**CSS3** – Styling and responsiveness.  
+**HTML** – Structure and content.  
+**CSS** – Styling and responsiveness.  
 **Flexbox & Grid** – Layout management.  
 **VS Code** – Development environment. 
 
