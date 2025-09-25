@@ -32,7 +32,11 @@ The website should provide the following features:
 3. **Navigation Menu** – Easy-to-use navigation across sections/pages.  
 4. **Contact Form** – Enable users to reach out for enquiries, quotes, or support.  
 6. **Responsive Layout** – Adapt layout using **CSS Grid**, **Flexbox**, and **media queries**.  
-7. **Consistent Theme** – Apply a polished eco-friendly theme with unified design elements. 
+7. **Consistent Theme** – Apply a polished eco-friendly theme with unified design elements.
+
+
+## Screenshots of my website on different screen sizes
+
 
 
 
@@ -65,4 +69,5 @@ In part 1 of this POE, I have recieved some feedback from my lecturer about what
 - Implemented responsive layout using CSS Grid and Flexbox.  
 - Added typography styles for headings, paragraphs, and navigation.  
 - Styled buttons, forms, and interactive elements for consistency.  
-- Included media queries to ensure compatibility with mobile, tablet,  and desktop.  
+- Included media queries to ensure compatibility with mobile, tablet,  and desktop.
+
