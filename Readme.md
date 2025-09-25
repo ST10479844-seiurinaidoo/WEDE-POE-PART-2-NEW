@@ -36,7 +36,7 @@ The website should provide the following features:
 
 
 ## Screenshots of my website on different screen sizes
-In this section of the readme file I will have screenshots of the homepage of my website running on 3 different devices: (desktops, phones and tablets):
+In this section of the readme file I will have screenshots of the homepage of my website running on 3 different devices: (desktops, mobile phones and tablets):
 1. Desktops:
 
 ![desktop screen 1](https://github.com/user-attachments/assets/39dafeb8-4a83-4811-9af0-eec1b02efe74)
@@ -49,13 +49,37 @@ In this section of the readme file I will have screenshots of the homepage of my
 
 The homepage displayed on a desktop screen demonstrates a clean and well-structured layout. Content is clearly spaced, ensuring readability and ease of navigation. The design is fully responsive and accessible, providing users with an intuitive browsing experience.
 
+2. Tablets:
 
+![tablet 1](https://github.com/user-attachments/assets/7748afc1-f710-4693-a796-c5d8dd14fb89)
 
+![tablet 2](https://github.com/user-attachments/assets/607d45d8-5d12-43c1-ba3d-701c03552628)
 
+![tablet 3](https://github.com/user-attachments/assets/fed5cc74-b941-4ca7-b837-85ef029e88bb)
 
+![tablet 4](https://github.com/user-attachments/assets/dd8129c5-5b53-43b2-83de-7932579ff770)
 
+![tablet 5](https://github.com/user-attachments/assets/813b4452-c925-4e37-95f5-0a8654560fb0)
 
+![tablet 6](https://github.com/user-attachments/assets/6cac5b92-27d8-420c-a333-d529e77febe2)
 
+On tablet devices, the website maintains its structured design with balanced spacing and optimized layouts. Navigation remains simple and accessible, ensuring that users can easily explore services and information without visual clutter.
+
+3. Mobile phones:
+
+![phone 1](https://github.com/user-attachments/assets/05433f27-3d53-4db5-a402-4ed8814c0ded)
+
+![pjone2](https://github.com/user-attachments/assets/90b5ff63-a260-4dab-90f5-4688a2db0c5d)
+
+![phone 3](https://github.com/user-attachments/assets/cca9cee4-8aa0-48c4-8206-d34d1ebbeb74)
+
+![phone 4](https://github.com/user-attachments/assets/88738ccf-fa87-4070-9872-c02b63c1b975)
+
+![phone 5](https://github.com/user-attachments/assets/93523a16-9df7-4e4e-91ec-7e0d259cf73e)
+
+![phone 6](https://github.com/user-attachments/assets/a7eab27b-5f04-4340-aaf1-26af0e913952)
+
+The mobile view adapts seamlessly to smaller screens, presenting content in a clear and concise format. Key features such as navigation, services, and contact options are fully functional, delivering a smooth and accessible experience on the go. 
 
 ## Changelog
 In part 1 of this POE, I have recieved some feedback from my lecturer about what i didnt include in my project. Here is how I made some changes to that. 
