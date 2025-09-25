@@ -36,8 +36,9 @@ The website should provide the following features:
 
 
 ## Screenshots of my website on different screen sizes
-In this section of the readme file I will have screenshots of my website running on 3 different devices: (desktops, phones and tablets):
+In this section of the readme file I will have screenshots of the homepage of my website running on 3 different devices: (desktops, phones and tablets):
 1. Desktops:
+
 ![desktop screen 1](https://github.com/user-attachments/assets/39dafeb8-4a83-4811-9af0-eec1b02efe74)
 
 ![desktop screen 2](https://github.com/user-attachments/assets/9e9b4f8c-d535-47b8-af8f-c389ba7b9e99)
@@ -45,6 +46,8 @@ In this section of the readme file I will have screenshots of my website running
 ![desktop screen 3](https://github.com/user-attachments/assets/6b9f7ecb-efde-4705-ad19-3eaac3b07ff6)
 
 ![Desktop screen 4](https://github.com/user-attachments/assets/5d33e834-51ac-4374-bfaf-ea17213ab31d)
+
+The homepage displayed on a desktop screen demonstrates a clean and well-structured layout. Content is clearly spaced, ensuring readability and ease of navigation. The design is fully responsive and accessible, providing users with an intuitive browsing experience.
 
 
 
